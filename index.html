@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Alura Geek | Página de gestión de productos geek">
+    <!--FAVICON-->
+    <link rel="icon" type="image/png" href="./assets/favicon.png">
+    <!--GOOGLE FONTS-->
+    <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
+    <!--FONTAWESOME (ICONS)-->
+    <script src="https://kit.fontawesome.com/4c59d6196b.js" crossorigin="anonymous"></script>
+    <!--RESETEAR ESTILOS
+    <link rel="stylesheet" href="styles/reset.css">
+    -->
+    <!--HOJA DE ESTILOS-->
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Alura Geek</title>
+</head>
+
+
+<body>
+    <!-- ENCABEZADO -->
+    <header>
+        <img class="logo" src="./assets/logo.svg" alt="texto alura geek">
+    </header>
+
+    <!-- MAIN -->
+    <main class="fondo">
+
+        <!--BUSCADOR (oculto por ahora)
+        <section class="container__buscardor">
+            <div class="buscador__box">
+                <input class="buscador__box-input" type="search" placeholder="Buscar producto" id="buscar" data-buscar autocomplete="off">
+                <button class="btn-buscar" id="btnBuscar" aria-label="buscar producto" data-btn-buscar><i class="fa-solid fa-magnifying-glass icon"></i></button>
+            </div>
+        </section>-->
+
+        <!--AREA DE CARGA DE PRODUCTOS Y FORMULARIO-->
+        <section class="conatiner__area-carga">
+           
+            <!--LISTADO DE PRODUCTOS CARGADOS-->            
+            <section class="container__productos">
+                <div class="productos__box">
+                    <h2>MIS PRODUCTOS</h2>
+                    <ul class="productos__grid" data-productos></ul>
+                </div>
+            </section>
+
+            <!--FORMULARIO DE CARGA DE PRODUCTOS-->
+            <section class="container__formulario">
+                <div class="formulario__box">
+                    <h2>AGREGAR PRODUCTOS</h2>
+                    <form class="formulario" data-formulario>
+                        <div class="formulario__input-box">
+                            <input type="text" data-nombre required autocomplete="off">
+                            <label>Nombre</label>
+                        </div>
+                        <div class="formulario__input-box">
+                            <input type="text" data-precio required autocomplete="off">
+                            <label>Precio</label>
+                        </div>
+                        <div class="formulario__input-box">
+                            <input type="url" data-imagen-url required autocomplete="off">
+                            <label>Imagen URL</label>
+                        </div>
+                        <div class="formulario__btn-box">
+                            <button class="btn-enviar" type="submit" aria-label="enviar formulario" id="btn">Enviar</button>
+                            <button class="btn-limpiar" type="reset" aria-label="limpiar formulario" id="btn">Limpiar</button>
+                        </div>
+                    </form>
+                </div>        
+            </section>
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer-blur"></div>
+        <div class="footer-txt">
+            <h1>ALURA GEEK</h1>
+            <p>© Vanina Denegri para Alura Latam 2024</p>
+            <p><a href="#">Repositorio en GitHub</a> | <a href="#">Diseño en Figma</a></p>
+            <div class="footer-redes">
+                <p>Seguime:</p>
+                <button class="btn-social" aria-label="ir a perfil de LinkedIn"><i class="fa-brands fa-linkedin"></i></button>
+                <button class="btn-social" aria-label="ir a perfil de GitHub"><i class="fa-brands fa-square-github"></i></button>
+            </div>
+        </div>
+    </footer>
+
+    <script type="module" src="js/controllers/main.js"></script>
+</body>
+</html>

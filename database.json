@@ -1,0 +1,41 @@
+{
+    "productosag": [
+      {
+        "nombre": "Llavero R2D2 Funko Original",
+        "precio": "17.890",
+        "imagenUrl": "https://i.postimg.cc/7h9f5V2S/llavero-R2-D2-Funko-Pop-Original.png",
+        "id": 1
+      },
+      {
+        "nombre": "Llavero Stormtrooper Funko Original",
+        "precio": "17.890",
+        "imagenUrl": "https://i.postimg.cc/FRjf4mFW/llavero-Stormtrooper-Funko-Pop-Original.png",
+        "id": 2
+      },
+      {
+        "nombre": "Set 4 Pins Funko Original",
+        "precio": "12.590",
+        "imagenUrl": "https://i.postimg.cc/ZYx9sTM0/set4-Pins-Funko-Original.png",
+        "id": 3
+      },
+      {
+        "nombre": "Taza Mágica Logo Star Wars Negra",
+        "precio": "7.990",
+        "imagenUrl": "https://i.postimg.cc/4xmm3pNh/taza-Magica-Logo-Star-Wars-Negra.png",
+        "id": 4
+      },
+      {
+        "nombre": "Vaso Darth Vader Negro 250ml",
+        "precio": "5.690",
+        "imagenUrl": "https://i.postimg.cc/GhM4rXrC/vaso-Darth-Vader-Negro250ml.png",
+        "id": 1
+      },
+      {
+        "nombre": "Vaso Stormtrooper Blanco 250ml",
+        "precio": "5.690",
+        "imagenUrl": "https://i.postimg.cc/1Xs8RTf9/vaso-Stormtrooper-Blanco250ml.png",
+        "id": 1
+      }
+
+    ]
+}
