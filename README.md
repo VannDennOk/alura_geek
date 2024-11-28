@@ -38,7 +38,6 @@ El proyecto surge como solución al Challenge de Formación en Front End de Alur
 <h3>Puntos de mejora :muscle:</h3>
 <p>
 Cosas que quiero agregar en el futuro:
-<br>
 <br>:small_orange_diamond: funcionalidad de búsqueda.
 <br>:small_orange_diamond: alertas y mensajes de error personalizados.
 <br>:small_orange_diamond: conectar con una API en línea.
@@ -60,8 +59,7 @@ npm install json-server
 npx json-server --watch database.json --port3000
 ```
 <p>
-:four: Abrir el index.html en el navegador:
-<br>
+:four: Abrir el index.html en el navegador.
 <br>:arrow_right: <a href="https://postimg.cc/gallery/WzDfF6H">Aguí</a> se encuentra una galería de imágenes que puedes usar para probar este Alura Geek </p>
 
 <h2>Acceso al proyecto :link:</h2>
