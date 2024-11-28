@@ -80,5 +80,23 @@ formulario.addEventListener("submit", async (event) => {
   }
 });
 
+/*BOTONES DE ENLACES*/
+// Mapeamos cada botón con su URL de destino
+const buttonRutas = {
+  "btn_irLinkedIn": "https://www.linkedin.com/in/vaninadenegri",
+  "btn_irGitHub": "https://github.com/VannDennOk",
+};
+
+// Asignamos el evento de click a cada botón según el mapeo
+Object.keys(buttonRutas).forEach(buttonId => {
+  const button = document.getElementById(buttonId);
+  if (button) {
+      button.addEventListener("click", function () {
+          window.location.href = buttonRutas[buttonId];
+      });
+  }
+});
+
+
 // Ejecuta la función de la renderización de los productos (muestra los productos)
 renderizarProductos();
