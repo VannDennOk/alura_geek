@@ -1,41 +1,106 @@
 {
-    "productosag": [
-      {
-        "nombre": "Llavero R2D2 Funko Original",
-        "precio": "17.890",
-        "imagenUrl": "https://i.postimg.cc/7h9f5V2S/llavero-R2-D2-Funko-Pop-Original.png",
-        "id": 1
-      },
-      {
-        "nombre": "Llavero Stormtrooper Funko Original",
-        "precio": "17.890",
-        "imagenUrl": "https://i.postimg.cc/FRjf4mFW/llavero-Stormtrooper-Funko-Pop-Original.png",
-        "id": 2
-      },
-      {
-        "nombre": "Set 4 Pins Funko Original",
-        "precio": "12.590",
-        "imagenUrl": "https://i.postimg.cc/ZYx9sTM0/set4-Pins-Funko-Original.png",
-        "id": 3
-      },
-      {
-        "nombre": "Taza Mágica Logo Star Wars Negra",
-        "precio": "7.990",
-        "imagenUrl": "https://i.postimg.cc/4xmm3pNh/taza-Magica-Logo-Star-Wars-Negra.png",
-        "id": 4
-      },
-      {
-        "nombre": "Vaso Darth Vader Negro 250ml",
-        "precio": "5.690",
-        "imagenUrl": "https://i.postimg.cc/GhM4rXrC/vaso-Darth-Vader-Negro250ml.png",
-        "id": 1
-      },
-      {
-        "nombre": "Vaso Stormtrooper Blanco 250ml",
-        "precio": "5.690",
-        "imagenUrl": "https://i.postimg.cc/1Xs8RTf9/vaso-Stormtrooper-Blanco250ml.png",
-        "id": 1
-      }
-
-    ]
+  "productosag": [
+    {
+      "id": "bb19",
+      "nombre": "Llavero R2-D2 Pop Original",
+      "precio": "20.570",
+      "imagenUrl": "https://i.postimg.cc/4NX4362J/Llavero-R2-D2-Pop-Original.png"
+    },
+    {
+      "id": "99d6",
+      "nombre": "Funko Pop Stormtrooper Original",
+      "precio": "20.570",
+      "imagenUrl": "https://i.postimg.cc/jdT2702Y/Funko-Stormtrooper-Pop-Original.png"
+    },
+    {
+      "id": "f296",
+      "nombre": "Taza Mágica Star Wars Logo Original",
+      "precio": "7.980",
+      "imagenUrl": "https://i.postimg.cc/zBm8YKRY/Taza-M-gica-Star-Wars-Logo-Original.png"
+    },
+    {
+      "id": "ae8f",
+      "nombre": "Llavero Chewbacca Pop Original",
+      "precio": "20.570",
+      "imagenUrl": "https://i.postimg.cc/TPBY2BFS/Llavero-Chewbacca-Pop-Original.png"
+    },
+    {
+      "id": "0b66",
+      "nombre": "Funko Pop Darth Vader Original",
+      "precio": "35.299",
+      "imagenUrl": "https://i.postimg.cc/t4CgB3Fr/Funko-Darth-Vader-Pop-Original.png"
+    },
+    {
+      "id": "a9c0",
+      "nombre": "Funko Pop Yoda Original",
+      "precio": "35.299",
+      "imagenUrl": "https://i.postimg.cc/3wkxT3Sm/Funko-Yoda-Pop-Original.png"
+    },
+    {
+      "id": "e1a9",
+      "nombre": "Funko Chewbacca Pop Original",
+      "precio": "35.299",
+      "imagenUrl": "https://i.postimg.cc/V6j1fvjr/Funko-Chewbacca-Pop-Original.png"
+    },
+    {
+      "id": "8810",
+      "nombre": "Funko Pop Luke Skywalker Original",
+      "precio": "35.299",
+      "imagenUrl": "https://i.postimg.cc/x1x1hXR9/Funko-Luke-Skywalkwe-Pop-Original.png"
+    },
+    {
+      "id": "e7eb",
+      "nombre": "Funko Pop Princess Leia Original",
+      "precio": "35.299",
+      "imagenUrl": "https://i.postimg.cc/m2SD3X1z/Funko-Princess-Leia-Pop-Original.png"
+    },
+    {
+      "id": "31b1",
+      "nombre": "Llavero Darth Vader Pop Original",
+      "precio": "20.570",
+      "imagenUrl": "https://i.postimg.cc/JnJ7sPWh/Llavero-Darth-Vader-Pop-Original.png"
+    },
+    {
+      "id": "1464",
+      "nombre": "Llavero Han Solo Pop Original",
+      "precio": "20.570",
+      "imagenUrl": "https://i.postimg.cc/5yV4LLxS/Llavero-Han-Solo-Pop-Original.png"
+    },
+    {
+      "id": "fa69",
+      "nombre": "Llavero Luke Skywalker Pop Original",
+      "precio": "20.570",
+      "imagenUrl": "https://i.postimg.cc/SRfyrRRF/Llavero-Luke-Skywalker-Pop-Original.png"
+    },
+    {
+      "id": "d20e",
+      "nombre": "Llavero Princess Leia Pop Original",
+      "precio": "20.570",
+      "imagenUrl": "https://i.postimg.cc/1RG5PCHC/Llavero-Princess-Leia-Pop-Original.png"
+    },
+    {
+      "id": "cae5",
+      "nombre": "Llavero Sormtrooper Pop Original",
+      "precio": "20.570",
+      "imagenUrl": "https://i.postimg.cc/Nfbs2KZR/Llavero-Sormtrooper-Pop-Original.png"
+    },
+    {
+      "id": "b6c0",
+      "nombre": "Llavero Mandalorian Pop Original",
+      "precio": "20.570",
+      "imagenUrl": "https://i.postimg.cc/Gm2cFc1V/Llavero-The-Mandolorian-Pop-Original.png"
+    },
+    {
+      "id": "e9d7",
+      "nombre": "Taza Mágica Darth Vader Original",
+      "precio": "20.570",
+      "imagenUrl": "https://i.postimg.cc/qv5pQ9JR/Taza-M-gica-Darth-Vader-Original.png"
+    },
+    {
+      "id": "cb43",
+      "nombre": "Taza Mágica Star Wars Lightsaber Original",
+      "precio": "7.980",
+      "imagenUrl": "https://i.postimg.cc/wBRgr0Mk/Taza-M-gica-Star-Wars-Lightsabers-Original.png"
+    }
+  ]
 }
