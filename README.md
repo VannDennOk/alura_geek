@@ -56,7 +56,7 @@ npm install json-server
 ```
 
 ```bash
-npx json-server --watch database.json --port3000
+npx json-server --watch database.json --port 3000
 ```
 <p>
 :four: Abrir el index.html en el navegador.
