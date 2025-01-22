@@ -7,7 +7,7 @@
 
 <h2>Tecnologías :computer:</h2>
 <p align="left">
-<img src="https://img.shields.io/badge/HTML_5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/CSS_3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Nodle.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=ffffff"> <img src="https://img.shields.io/badge/json_server-000000?style=flat-square&logo=json&logoColor=ffffff">
+<img src="https://img.shields.io/badge/HTML_5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/CSS_3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=ffffff"> <img src="https://img.shields.io/badge/json_server-000000?style=flat-square&logo=json&logoColor=ffffff">
 <br>
 <br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=ffffff"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=ffffff"> 
@@ -31,7 +31,7 @@ El proyecto surge como solución al Challenge de Formación en Front End de Alur
 <br>:heavy_check_mark: creación de una API RESTful simulada con json-server.
 <br>:heavy_check_mark: funcionalidad de renderizar productos (GET).
 <br>:heavy_check_mark: funcionalidad de crear productos nuevos (POST).
-<br>:heavy_check_mark: duncionalidad de eliminar un producto (DELETE).
+<br>:heavy_check_mark: funcionalidad de eliminar un producto (DELETE).
 <br>:heavy_check_mark: control de fallas.
 </p>
 
